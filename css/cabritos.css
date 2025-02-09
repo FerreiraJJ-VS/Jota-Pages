@@ -1,0 +1,66 @@
+body {
+    background-image: url(../imgs/o5RofQe.png);
+    background-size: 99.7%;
+    color: black;
+    font: normal 18pt Consolas; /* CSS */
+    }
+
+header {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.209);
+    }
+
+    section {
+        background: rgba(65, 65, 65, 0.931); /* Valeu Curso em Vídeo! */
+        border-radius: 10px;
+        padding: 15px;
+        width: 500px;
+        margin: auto;
+        box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.61);
+        }
+
+        footer {
+            color: rgba(243, 243, 4, 0.925); /* Valeu Curso em Vídeo! */
+            text-align: center;
+            font-style: italic;
+            font: normal 18pt;
+            border-radius: 15px;
+        }
+        #h1header {
+            color: cadetblue;
+        }
+        #mineclr {
+            color: darkgreen;
+        }
+        #p1sec {
+            color: rgb(81, 134, 136);
+            text-shadow: 1px 1px 0px #000;
+        }
+        #strongj {
+            color: darkslateblue;
+            text-shadow: 1px 1px 0px black;
+        }
+        #strongpimp {
+            color: aquamarine;
+        }
+        #btnhome {
+            display: block;
+        background-color: #00000051;
+        width: 148px;
+        height: 33px;
+        border-radius: 3px;
+        border: 3px solid crimson;
+        box-shadow: 3px 3px 0px #000000;
+        font: 18pt Consolas;
+        cursor: pointer;
+        margin-left: 173.8px;
+        text-decoration: none;
+        text-align: center;
+        margin-top: 0%;
+        transition: all linear 172ms;
+        }
+        #btnhome:hover {
+            transform: scale(1.2);
+            box-shadow: 0px 0px 12px black;
+        }

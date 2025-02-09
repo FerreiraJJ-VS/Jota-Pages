@@ -1,0 +1,143 @@
+body {
+background-image: url(../imgs/UvacghM.png);
+background-size: 100%;
+color: black;
+font: normal 18pt Consolas; /* CSS */
+}
+h1 {
+    color: rgb(48, 36, 62);
+    text-shadow: 1px 1px black;
+}
+#sech2 {
+    font: normal 17pt Consolas;
+    text-align: justify;
+    color: crimson;
+    background-color: #0000005f;
+}
+header {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.209);
+    }
+    section {
+        background: rgba(65, 65, 65, 0.931); /* Valeu Curso em Vídeo! */
+        border-radius: 10px;
+        padding: 15px;
+        width: 500px;
+        margin: auto;
+        box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.61);
+        }
+        footer {
+            color: rgba(243, 243, 4, 0.925); /* Valeu Curso em Vídeo! */
+            text-align: center;
+            font-style: italic;
+            font: normal 18pt;
+            border-radius: 15px;
+        }
+
+        #input {
+            display: block;
+            margin-left: 36.3%;
+            width: 135px;
+            height: 40px;
+            border-radius: 0px;
+            border: 3px solid #c50a0a;
+            box-shadow: 3px 3px 0px #000000;
+            font: 22pt Berlin Sans FB;
+            color: #c50a0a;
+            cursor: pointer;
+            text-decoration: none;
+            text-align: center;
+            background-color: #0000006e;
+            margin-top: -1%;
+            transition: all linear 172ms;
+        }
+
+            #input:hover{
+                transform: scale(1.2);
+                box-shadow: 0px 0px 12px black;
+            }
+        #ph1 {
+        color:rgb(48, 36, 62);
+        text-align: center;
+        font: normal 18pt Consolas;
+        margin-top: -2%;
+        text-shadow: 1px 1px 0px black;
+        }
+        #terror {
+            color: brown;
+        }    
+        #strongclr {
+            color: darkviolet;
+            background-color: rgba(245, 245, 124, 0.134);
+        }
+        #ph2{
+            color: dodgerblue;
+            text-shadow: 1px 1px 0px black;
+        }
+        #strongclrmais{
+            color: #af0c0c;
+        }
+        #parçasbtn{
+            display: block;
+            margin-left: 66.7%;
+            width: 100px;
+            height: 35px;
+            border-radius: 5px;
+            border: 3px solid #057e46ec;
+            box-shadow: 3px 3px 0px #000000;
+            font: 19pt Berlin Sans FB;
+            color: #09844aec;
+            cursor: pointer;
+            text-decoration: none;
+            text-align: center;
+            background-color: #0000006e;
+            margin-top: -1%;
+            transition: all linear 172ms;
+        }
+        #parçasbtn:hover{
+            transform: scale(1.2);
+                box-shadow: 0px 0px 12px black;
+        }
+        #btncabritos {
+            display: block;
+            margin-left: 15%;
+            width: 100px;
+            height: 35px;
+            border-radius: 5px;
+            border: 3px solid rgb(81, 134, 136);
+            box-shadow: 3px 3px 0px #000000;
+            font: 19pt Berlin Sans FB;
+            color: cadetblue;
+            cursor: pointer;
+            text-decoration: none;
+            text-align: center;
+            background-color: #0000006e;
+            margin-top: -12.91%;
+            transition: all linear 172ms;
+        }
+        #btncabritos:hover {
+            transform: scale(1.2);
+            box-shadow: 0px 0px 12px black;
+        }
+        #btndesc {
+            display: block;
+            margin-left: 40.1%;
+            width: 100px;
+            height: 35px;
+            border-radius: 5px;
+            border: 3px solid rgb(62, 54, 41);
+            box-shadow: 3px 3px 0px #000000;
+            font: 19pt Berlin Sans FB;
+            color: rgba(12, 116, 3, 0.936);
+            cursor: pointer;
+            text-decoration: none;
+            text-align: center;
+            background-color: #0000006e;
+            margin-top: -12.91%;
+            transition: all linear 172ms;
+        }
+        #btndesc:hover {
+            transform: scale(1.2);
+            box-shadow: 0px 0px 12px black;
+        }

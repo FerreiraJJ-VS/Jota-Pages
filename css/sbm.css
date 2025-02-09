@@ -1,0 +1,115 @@
+body {
+    background-image: url(../imgs/Ta2qRlE.jpeg);
+    background-size: 125.8%;
+    color: black;
+    font: normal 18pt Consolas; /* CSS */
+    }
+    h1 {
+        color: rgb(195, 143, 12);
+        text-shadow: 1px 1px black;
+        text-align: center;
+    }
+section {
+    background: rgba(65, 65, 65, 0.931); /* Valeu Curso em Vídeo! */
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.61);
+    }
+    footer {
+        color: rgba(243, 243, 4, 0.925); /* Valeu Curso em Vídeo! */
+        text-align: center;
+        font-style: italic;
+        font: normal 18pt;
+        border-radius: 15px;
+    }
+    #incrivel {
+        color: goldenrod;
+    }
+        #linkdede {
+            display: block;
+            margin-left: 1%;
+            width: 200px;
+            height: 31.4px;
+            border-radius: 5px;
+            border: 3px solid darkslateblue;
+            box-shadow: 3px 3px 0px #000000;
+            font: 16pt Berlin Sans FB;
+            color: rgb(110, 25, 153);
+            cursor: pointer;
+            text-decoration: none;
+            text-align: center;
+            background-color: #0000006e;
+            margin-top: -5.6%;
+            transition: all linear 172ms;
+        }
+            #linkdede:hover {
+            transform: scale(1.2);
+            box-shadow: 0px 0px 12px black;
+            }
+        #andredesc {
+            text-align: left;
+            color: indigo;
+            background-color: #00000075;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+            #styledede {
+                text-align: justify;
+                font-size: 16pt;
+                color: darkslateblue;
+                text-shadow: 1px 1px 0px black;
+                margin-top: -0.6%;
+            }        
+    #tylerdesc {
+        text-align: left;
+        color: forestgreen;
+        background-color: rgba(128, 255, 0, 0.197);
+        text-shadow: 3px 1px 0px rgb(33, 33, 33);
+    }
+        #styleph {
+            text-align: justify;
+            font-size: 17.8pt;
+            color: darkolivegreen;
+            text-shadow: 1px 1px 0px rgb(33, 33, 33);
+        }
+            #estressado {
+                color: darkred;
+            }
+            #verde {
+                color: green;
+            }
+            #prb {
+                color: lightgrey;
+            }
+    #picanha {
+        text-align: left;
+        color: gold;
+        background-color: rgba(255, 140, 0, 0.318);
+        text-shadow: 3.5px 1px 0px black;
+    }
+        #stylegio {
+            text-align: left;
+            color: goldenrod;
+            text-shadow: 1.5px 1.5px 0px black;
+        }    
+            #quase {
+                color: chocolate;
+            }
+    #btnhome {
+        display: block;
+        margin-left: 216px;
+        width: 56.7px;
+        height: 36px;
+        border: 3px solid indigo;
+        border-radius: 3px;
+        background-color:#0000003b;
+        box-shadow: 3px 3px 0px #000000;
+        text-decoration: none;
+        text-align: center;
+        transition: all linear 172ms;
+    }  
+    #btnhome:hover {
+        transform: scale(1.2);
+        box-shadow: 0px 0px 12px black;
+    }      
